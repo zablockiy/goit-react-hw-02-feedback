@@ -15,8 +15,8 @@
   text-align: center;
   letter-spacing: 3px;
   font-weight: 400;
-  color: #030303;
-  background: #eeeeee;
+  color: #e0dbdb;
+  background: #5f5e5e;;
 }
 
 .feedback__button:not(:last-child) {
